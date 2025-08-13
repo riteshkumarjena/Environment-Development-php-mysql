@@ -5,12 +5,12 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f2f5;
+            background-color: #00a3ad;
             color: #333;
             padding: 20px;
         }
         .container {
-            background: white;
+            background: #F8B195;
             border-radius: 10px;
             padding: 30px;
             max-width: 700px;
