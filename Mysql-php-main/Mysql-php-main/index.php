@@ -74,5 +74,6 @@
         </p>
     </div>
 </div>
+    <footer>Developed by @Ritesh Kumar Jena</footer>
 </body>
 </html>
